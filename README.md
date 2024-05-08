@@ -1,4 +1,4 @@
-# Bike-Sharing-Multiple-Linear-Regression-Assignment
+# Bike-Sharing-Multiple
 
 ## Introduction
 In this assignment we need to build a model for the prediction of demand for shared bikes. 
